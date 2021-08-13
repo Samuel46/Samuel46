@@ -1,15 +1,7 @@
 ### Hi there 👋
 ![samuel wanjiru](https://user-images.githubusercontent.com/30689959/94124336-89785600-fe5d-11ea-8b74-43dbc8384c65.png)
 
-I am a self-taught JavaScript developer & Front-End Web Developer specializing in:
-- Bootstrap 4,
-- Material CSS
-- HTML5 & CSS3,
-- MERN Stack => react, express, node.js & mongoDB
-- Modern Javascript,
-- Graphic Design,
-- WordPress
-I have a great passion for technology, I spend most of my free time learning and taking the new course online. For me, technology is who I am its a part of me, my lifestyle. I'm good at coding, I love coding, the world need's code and get paid to code this a Japanese Philosophy called IKIGAI used by top achievers in the world, I'm one of them. I started web development in 2016 since then I have grown & my love to create sleek user interfaces that solves the problems. How could I be of assitance to you?
+Talented self-taught JavaScript developer with robust problem-solving skills and proven experience in creating and bring into life beautiful products that people can engage with and a professional with expertise in robust programming languages such as [React.js], [Node.js], [Express.js], [HTML], [CSS], [JavaScript] and [PHP]. Deliver high-quality designs based on client specifications. Manage projects smoothly to accomplish customer objectives.
 
 ### - 🔭 Some cool projects I've worked on ...
 - https://www.linkedin.com/posts/samuel-munyiri_react-frontend-javascriptdeveloper-activity-6788244874920525824-F3-w
