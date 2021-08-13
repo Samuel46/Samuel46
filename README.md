@@ -4,6 +4,7 @@
 Talented self-taught JavaScript developer with robust problem-solving skills and proven experience in creating and bring into life beautiful products that people can engage with and a professional with expertise in robust programming languages such as [React.js], [Node.js], [Express.js], [HTML], [CSS], [JavaScript] and [PHP]. Deliver high-quality designs based on client specifications. Manage projects smoothly to accomplish customer objectives.
 
 ### - 🔭 Some cool projects I've worked on ...
+- https://agile-brushlands-03171.herokuapp.com/
 - https://www.linkedin.com/posts/samuel-munyiri_react-frontend-javascriptdeveloper-activity-6788244874920525824-F3-w
 - https://www.linkedin.com/posts/samuel-munyiri_react-like-inspiration-activity-6699034049081548801-phr0
 - https://www.linkedin.com/posts/samuel-munyiri_react-developerlife-amazonwebservices-activity-6773230270830137344-PQiF
