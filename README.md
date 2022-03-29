@@ -1,13 +1,20 @@
+![JavaScript developer](https://user-images.githubusercontent.com/30689959/94124336-89785600-fe5d-11ea-8b74-43dbc8384c65.png)
 ### Hi there 👋,  I'm Samuel Wanjiru🚀
 #### JavaScript developer
-![JavaScript developer](https://user-images.githubusercontent.com/30689959/94124336-89785600-fe5d-11ea-8b74-43dbc8384c65.png)
+I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-solving skills and proven experience in creating and bringing into life beautiful🧙‍♀️ products that people can engage with and a professional with expertise in robust programming languages such as [React.js], [Node.js], [Express.js], [Vanilla js], [JavaScript]. Deliver high-quality designs based on client specifications. Manage projects smoothly to accomplish customer objectives.
 
-I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-solving skills and proven experience in creating and bringing into life beautiful🧙‍♀️ products that people can engage with and a professional with expertise in robust programming languages such as [React.js], [Node.js], [Express.js], [Vanilla js], [JavaScript]. Deliver high-quality designs based on client specifications. Manage projects smoothly to accomplish customer objectives. 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samuel46)  
 
-Skills: React.js/Next.js/Node.js/Express.js/MongoDb/HTML/CSS/JS
+### Skills & Experience
+* 🧑🏿‍💻 React.js
+* 🧑🏿‍💻 Next.js
+* 💻 Node.js
+* 💻 Express.js
+* ⛲️ MongoDb
+* 😎 HTML/CSS/JS
 
-- 🔭 I’m currently working on Currently, a member of the Call for Code community at IBM working on open source projects namely Pyrrha. Pyrrha mission is to help protect firefighters👩‍🚒 from the immediate and long-term health impacts of the smoke and toxins they inhale by providing real-time information on exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to provide decision-making insight and information.🎉🎉 
-- 🌱 I’m currently learning Ether.js/Solidity 
+- 🔭 I’m currently working on Currently, a member of the Call for Code community at IBM working on open source projects namely Pyrrha. Pyrrha mission is to      help protect firefighters👩‍🚒 from the immediate and long-term health impacts of the smoke and toxins they inhale by providing real-time information on      exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to        provide decision-making insight and information.🎉🎉 
+- 🌱 I’m currently learning Ether.js & Solidity 
 - 💬 Ask me about Frontend development and architecture 
 - 📫 How to reach me: samuelwanjiru728@gmail.com 
 
@@ -16,5 +23,5 @@ Skills: React.js/Next.js/Node.js/Express.js/MongoDb/HTML/CSS/JS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Samuel46)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samuel46)  
+
 
