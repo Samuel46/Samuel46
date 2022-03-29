@@ -3,7 +3,8 @@
 #### JavaScript developer
 I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-solving skills and proven experience in creating and bringing into life beautiful🧙‍♀️ products that people can engage with and a professional with expertise in robust programming languages such as [React.js], [Node.js], [Express.js], [Vanilla js], [JavaScript]. Deliver high-quality designs based on client specifications. Manage projects smoothly to accomplish customer objectives.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Samuel46)  
+### Cool Project I've Done🌚
+- 🚀 https://dex.leonicornswap.com/home
 
 ### Skills & Experience
 * 🧑🏿‍💻 React.js
@@ -17,10 +18,6 @@ I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-s
 - 🌱 I’m currently learning Ether.js & Solidity 
 - 💬 Ask me about Frontend development and architecture 
 - 📫 How to reach me: samuelwanjiru728@gmail.com 
-
-### Cool Project I've Done🌚
-- 🚀 https://dex.leonicornswap.com/home
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samuel46)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-munyiri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://samuel46.github.io/SamuelPortfolio/)  
 
