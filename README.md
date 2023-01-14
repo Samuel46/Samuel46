@@ -5,7 +5,7 @@ I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-s
 
 ### Cool Project I've Done🌚
 - 🚀 https://dex.leonicornswap.com/home
-- 😎 - finsani.net - portfolio
+- 😎 - https://finsani.net -Portfolio
 ### Skills & Experience
 * 🧑🏿‍💻 React.js
 * 🧑🏿‍💻 Next.js
