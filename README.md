@@ -21,7 +21,7 @@ I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-s
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Samuel46)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuel-munyiri/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://samuel46.github.io/SamuelPortfolio/)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Samuel46)  
+
 
 
 
