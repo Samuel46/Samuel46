@@ -3,8 +3,6 @@
 #### JavaScript developer
 I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-solving skills and proven experience in creating and bringing into life beautiful🧙‍♀️ products that people can engage with and a professional with expertise in robust programming languages such as [React.js], [Node.js], [Express.js], [Vanilla js], [JavaScript]. Deliver high-quality designs based on client specifications. Manage projects smoothly to accomplish customer objectives.
 
-### Cool Project I've Done🌚
-- 🚀 https://dex.leonicornswap.com/home
 
 ### Skills & Experience
 * 🧑🏿‍💻 React.js
@@ -13,6 +11,8 @@ I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-s
 * 💻 Express.js
 * ⛲️ MongoDb
 * 😎 HTML/CSS/JS
+* Microservices
+* Redux toolkit
 
 - 🔭 I’m currently working on Currently, a member of the Call for Code community at IBM working on open source projects namely Pyrrha. Pyrrha mission is to      help protect firefighters👩‍🚒 from the immediate and long-term health impacts of the smoke and toxins they inhale by providing real-time information on      exposure and by calculating longer-term averages. The project uses custom sensors, smartphone and smartwatch apps, data science, and a dashboard to        provide decision-making insight and information.🎉🎉 
 - 🌱 I’m currently learning Ether.js & Solidity 
