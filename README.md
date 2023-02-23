@@ -1,4 +1,4 @@
-![JavaScript developer](https://user-images.githubusercontent.com/30689959/94124336-89785600-fe5d-11ea-8b74-43dbc8384c65.png)
+
 ### Hi there 👋,  I'm Samuel Wanjiru🚀
 #### JavaScript developer
 I'm a talented self-taught👨‍💻 JavaScript developer with robust problem-solving skills and proven experience in creating and bringing into life beautiful🧙‍♀️ products that people can engage with and a professional with expertise in robust programming languages such as [React.js], [Node.js], [Express.js], [Vanilla js], [JavaScript]. Deliver high-quality designs based on client specifications. Manage projects smoothly to accomplish customer objectives.
