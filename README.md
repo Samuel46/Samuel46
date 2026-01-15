@@ -1,66 +1,65 @@
-<!-- About -->
-<h1 align="center">Hey, I'm Samuel! 👋</h1>
-<p align="center">
-Full Stack Developer specializing in mobile and web applications. I build fintech solutions with React Native, Expo, and Supabase. Passionate about clean architecture, type safety, and exceptional user experiences. </br>
-Currently open to <strong>remote opportunities</strong> and looking to collaborate on <strong>open-source projects</strong>.
-</p>
+<div align="center">
+  
+# Samuel Wanjiru 🇰🇪
 
-</br>
+**Full Stack Engineer · Mobile Architect · Cloud Enthusiast**
 
-<!-- Socials -->
-<p>Let's connect:&nbsp;</p>
-<a href="https://x.com/samuelmunyiri34" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/x/000000/ffffff" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/samuel-munyiri/" target="_blank"><img height="20" width="20" src="https://cdn.simpleicons.org/linkedin" /></a>&nbsp;
+[![Repos](https://img.shields.io/badge/117+-Repositories-0A0A0A?style=flat&logo=github)](https://github.com/Samuel46?tab=repositories)
+[![Followers](https://img.shields.io/github/followers/Samuel46?label=Followers&style=flat&logo=github&color=0A0A0A)](https://github.com/Samuel46?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Samuel46&style=flat&color=0A0A0A)](https://github.com/Samuel46)
 
-</br>
-</br>
+---
 
-<!-- Portfolio -->
-<p>Check out my <a href="YOUR_PORTFOLIO_URL" target="_blank">Portfolio</a></p>
+*Building fintech solutions that move money across Africa*
 
-<!-- Contact -->
-<p>📧 Reach me at: samuelwanjiru728@gmail.com</p>
+[Portfolio](https://samuel46.github.io/SamuelPortfolio/) · [LinkedIn](https://www.linkedin.com/in/samuel-munyiri/) · [X](https://x.com/samuelmunyiri34) · samuelwanjiru728@gmail.com
 
-</br>
-
-<!-- Technologies -->
-<div>
-  <h2>Technologies I Use</h2>
-
-  <h4>Languages</h4>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> &nbsp;
-
-  <h4>Mobile & Frontend</h4>
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> &nbsp;
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" /> &nbsp;
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> &nbsp;
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> &nbsp;
-
-  <h4>Styling</h4>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/nativewind-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" /> &nbsp;
-
-  <h4>Backend & Database</h4>
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" /> &nbsp;
-
-  <h4>State & Data</h4>
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white" /> &nbsp;
-
-  <h4>Tools</h4>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /> &nbsp;
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" /> &nbsp;
 </div>
 
-</br>
+---
 
-<!-- GitHub Stats -->
-<h2>GitHub Stats</h2>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Samuel46&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&locale=en&count_private=true&rank_icon=github" />&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Samuel46&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=00000000" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Samuel46&theme=radical&hide_border=true" />
+### 💼 What I Do
+
+```text
+Mobile Development    ███████████████████░░   90%
+Backend & APIs        ██████████████████░░░   85%
+Cloud Infrastructure  ███████████████░░░░░░   75%
+DevOps & CI/CD        █████████████░░░░░░░░   65%
+I architect and build production-grade mobile apps with React Native & Expo, backed by Supabase and PostgreSQL. Currently focused on fintech solutions—group savings (Chama), payments, and loan management systems.
+
+🛠 Tech Stack
+<table> <tr> <td valign="top" width="33%">
+Frontend & Mobile
+
+
+React Native · Expo
+React · Next.js
+TypeScript · JavaScript
+Tailwind · NativeWind
+</td> <td valign="top" width="33%">
+Backend & Data
+
+
+Node.js · Express
+Supabase · PostgreSQL
+MongoDB · Redis
+REST · GraphQL
+</td> <td valign="top" width="33%">
+Cloud & DevOps
+
+
+AWS (EC2, S3, Lambda)
+Docker · Kubernetes
+Terraform · GitHub Actions
+Vercel · Railway
+</td> </tr> </table>
+📊 Stats
+<div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Samuel46&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Samuel46&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samuel46&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" /> </picture> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel46&layout=compact&theme=github_dark&hide_border=true&langs_count=8" /> <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel46&layout=compact&theme=default&hide_border=true&langs_count=8" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel46&layout=compact&theme=github_dark&hide_border=true&langs_count=8" /> </picture> </div> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Samuel46&theme=github-dark-blue&hide_border=true" /> <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=Samuel46&theme=default&hide_border=true" /> <img src="https://streak-stats.demolab.com?user=Samuel46&theme=github-dark-blue&hide_border=true" /> </picture> </div>
+🏆 Achievements
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Samuel46&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" /> </div>
+<div align="center">
+Open to remote opportunities & open-source collaborations
+
+"Code. Ship. Iterate."
+
+</div> ```
