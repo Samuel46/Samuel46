@@ -2,7 +2,7 @@
 
 # Samuel Wanjiru 🇰🇪
 
-**Full Stack Engineer · Mobile Architect · Cloud Enthusiast**
+**Full Stack Engineer · Mobile Architect**
 
 [![Repos](https://img.shields.io/badge/117+-Repositories-0A0A0A?style=flat&logo=github)](https://github.com/Samuel46?tab=repositories)
 [![Followers](https://img.shields.io/github/followers/Samuel46?label=Followers&style=flat&logo=github&color=0A0A0A)](https://github.com/Samuel46?tab=followers)
@@ -26,11 +26,11 @@ Mobile Development       ██████████████████�
 Backend & APIs           ███████████████████░░   90%
 ```
 
-I architect and build **production-grade mobile apps** with React Native & Expo, backed by **Supabase** and **PostgreSQL**. Passionate about clean architecture, type safety, and exceptional user experiences.
+I architect and build **production-grade mobile & web applications** with React Native, Expo, Next.js, and React, backed by **Supabase** and **PostgreSQL**. Passionate about clean architecture, type safety, and exceptional user experiences.
 
 ---
 
-### 🛠 Technologies I Use
+### 🛠 Tools of the Trade
 
 #### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -63,6 +63,7 @@ I architect and build **production-grade mobile apps** with React Native & Expo,
 
 #### State & Data
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
@@ -77,6 +78,7 @@ I architect and build **production-grade mobile apps** with React Native & Expo,
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Microsoft Teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)
 
 ---
 
