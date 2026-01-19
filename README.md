@@ -94,23 +94,6 @@ I architect and build **production-grade mobile & web applications** with React 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Samuel46&theme=radical" alt="GitHub Profile Summary"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Samuel46&theme=radical" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Samuel46&theme=radical&utcOffset=3" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Samuel46&theme=radical" height="165"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Samuel46&theme=radical" height="165"/>
-</p>
-
----
 
 <div align="center">
 
